@@ -38,7 +38,14 @@ This GitHub repository is a collection of design resources including color palet
 - https://unsplash.com/
 - https://www.pexels.com/
 - https://www.deviantart.com/
-- https://unsplash.com/collections/8892831/single-color-background
-- https://www.freeimages.com/
-- https://stocksnap.io/
-- https://gratisography.com/
+
+### Other
+- https://lawsofux.com/
+- https://www.remove.bg/
+- https://www.uistore.design/
+- https://deepnest.io/
+- https://resourcesfordesigner.com/
+- https://bestdesignsoftware.io/app/
+- https://www.lapa.ninja/freebies/
+- https://icons8.com/illustrations
+- https://simpleicons.org/

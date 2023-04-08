@@ -1,4 +1,4 @@
-This GitHub repository is a collection of design resources including color palettes, design systems, mockups, fonts, and free images. It's a valuable resource for designers looking to improve their workflow and produce better designs.
+This GitHub repository is a collection of resources including color palettes, design systems, mockups, fonts, and free images etc. It's a valuable resource for to improve their workflow and produce better designs and development.
 
 ### Color Pallet
 - https://coolors.co/
@@ -7,6 +7,7 @@ This GitHub repository is a collection of design resources including color palet
 - https://nighteye.app/dark-css-generator/
 - https://copypalette.app/
 - https://www.schemecolor.com/
+- https://colorable.jxnblk.com/
 
 ### Design System
 - https://www.merck.design/
@@ -49,3 +50,16 @@ This GitHub repository is a collection of design resources including color palet
 - https://www.lapa.ninja/freebies/
 - https://icons8.com/illustrations
 - https://simpleicons.org/
+- https://boringavatars.com/ 
+
+### Wordpress
+-  https://localwp.com/
+-  https://wordpress.org/plugins/all-in-one-wp-migration/
+-  https://www.wplocker.com/
+-  https://whatwpthemeisthat.com/
+-  https://pluginarchive.com/
+
+### Finances
+- https://erpnext.com/
+- https://craterapp.com/
+- https://frappebooks.com/
